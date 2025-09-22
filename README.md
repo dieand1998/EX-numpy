@@ -1,7 +1,7 @@
 # EX-numpy
-Ejercicios en clase de numpy
 
-## Ejercicio 2 
+## Ejercicio en clase
+
 - Escriba una función que reciba una matriz $X$, de tamaño $n\times p$ y un vector columna $y$ de tamaño $n\times 1$ para computar los coeficientes estimados $\hat\beta$ del modelo de regresión lineal $y = X\beta+u$. 
 - La matrix $X$ no contiene la columna de unos, debe ser agregada en la función para estimar el intercepto de la regresión lineal y conformar correctamente la matriz de diseño.
 - Utilice operaciones de álgebra matricial de NumPy. 
