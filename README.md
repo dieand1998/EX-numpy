@@ -1,5 +1,11 @@
 # EX-numpy
 
+## 100 Ejercicios en numpy
+
+Después de clase, revisa este cuaderno con [100 ejercicios cortos de numpy](https://colab.research.google.com/github/jyothi870/tejaswini5g5/blob/main/assignments/100_Numpy_exercises.ipynb). 
+
+Por ahora, resuelve el siguiente ejercicio. 
+
 ## Ejercicio en clase
 
 - Escriba una función que reciba una matriz $X$, de tamaño $n\times p$ y un vector columna $y$ de tamaño $n\times 1$ para computar los coeficientes estimados $\hat\beta$ del modelo de regresión lineal $y = X\beta+u$. 
